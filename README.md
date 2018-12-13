@@ -17,11 +17,19 @@ TODO: Fill out this long description.
 ## Install
 
 ```
+mkdir -p ~/catkin_ws/src
+cd ~/catkin_ws/src
+git clone git@github.com:liamondrop/rospy-template.git
+cd ~/catkin_ws
+catkin_make
+source devel/setup.bash
 ```
 
 ## Usage
 
 ```
+cd ~/catkin_ws
+roslaunch rospy_template rospy_template.launch
 ```
 
 ## API
