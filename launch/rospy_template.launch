@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+  <node name="rospy_template" pkg="rospy_template" type="rospy_template_node" />
+</launch>
