@@ -3,8 +3,6 @@
 
 > A starter template for creating ROS nodes in Python
 
-TODO: Fill out this long description.
-
 ## Table of Contents
 
 - [Install](#install)
