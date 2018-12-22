@@ -7,7 +7,7 @@ from rospy_template.template import Template, TemplateException
 if __name__ == '__main__':
     try:
         rospy.init_node('rospy_template', log_level=rospy.INFO)
-        node = Template()
+        template = Template()
         rospy.spin()
     except TemplateException as e:
         rospy.logfatal('{}: Shutting down template node'.format(e))
