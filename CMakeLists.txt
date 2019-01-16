@@ -16,6 +16,6 @@ install(DIRECTORY config launch msg
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )
 
-install(PROGRAMS bin/${PROJECT_NAME}_node
+catkin_install_python(PROGRAMS bin/${PROJECT_NAME}_node
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
