@@ -46,4 +46,4 @@ Small note: If editing the README, please conform to the [standard-readme](https
 
 ## License
 
-MIT © 2018 Liam Bowers
+MIT © 2019 Liam Bowers
