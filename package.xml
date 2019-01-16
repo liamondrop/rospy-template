@@ -2,7 +2,7 @@
 <package format="2">
   <name>rospy_template</name>
   <version>0.0.0</version>
-  <description>rospy_template description</description>
+  <description>The rospy_template package</description>
   <maintainer email="liamondrop@gmail.com">Liam Bowers</maintainer>
 
   <license>MIT</license>
